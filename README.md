@@ -1,6 +1,6 @@
 This repository contains the projects I completed as part of the CodeAlpha Internship, showcasing my skills in web development and frontend design. Each task demonstrates my ability to build structured, interactive, and functional web applications.
 
-Tasks Overview:
+Tasks Overview: <br>
 🔹 Task 1 - Image gallery: <br>
 This project is part of the Code Alpha Internship Task 1, where I built a fully responsive Image Gallery using HTML, CSS, and JavaScript. The gallery features a clean and modern layout, allowing users to browse images smoothly. <br>
 
