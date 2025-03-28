@@ -20,11 +20,9 @@ This project is a simple yet efficient calculator developed as part of the CodeA
 🔹 Features: <br>
 Basic operations: +, -, ×, ÷
  <br>
-Responsive and intuitive interface <br>
-
-Built using HTML, CSS, and JavaScript <br>
-
-Error handling for invalid inputs <br>
+✅ Responsive and intuitive interface <br>
+✅ Built using HTML, CSS, and JavaScript <br>
+✅ Error handling for invalid inputs <br>
  <br>
 🔹 Tech Stack: HTML | CSS | JavaScript <br> <br><br>
 
@@ -32,10 +30,10 @@ Error handling for invalid inputs <br>
 This is a simple personal portfolio website created as part of the CodeAlpha Internship Task 3. It highlights my skills, projects, and contact details in a structured and visually appealing manner.
  <br>
 Features: <br>
-✔ Well-structured layout with HTML, CSS, and JavaScript <br>
-✔ Sections include About Me, Projects, Skills, and Contact <br>
-✔ Interactive design elements for better user experience <br>
-✔ Showcases my journey as a frontend developer <br>
+✅ Well-structured layout with HTML, CSS, and JavaScript <br>
+✅ Sections include About Me, Projects, Skills, and Contact <br>
+✅ Interactive design elements for better user experience <br>
+✅ Showcases my journey as a frontend developer <br>
  <br> <br>
 
-📌 Tech Stack: HTML | CSS | JavaScript 
+🔹 Tech Stack: HTML | CSS | JavaScript 
