@@ -18,8 +18,7 @@ HTML, CSS (or Tailwind CSS), JavaScript <br> <br><br>
 This project is a simple yet efficient calculator developed as part of the CodeAlpha Internship (Task 2). It performs basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator is designed with a clean and user-friendly UI, ensuring smooth user interaction.
  <br>
 🔹 Features: <br>
-Basic operations: +, -, ×, ÷
- <br>
+✅ Basic operations: +, -, ×, ÷ <br>
 ✅ Responsive and intuitive interface <br>
 ✅ Built using HTML, CSS, and JavaScript <br>
 ✅ Error handling for invalid inputs <br>
